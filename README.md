@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shukabum&show_icons=true&locale=en&layout=compact" alt="shukabum" /></p>
 
-<p>&nbsp;</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shukabum&show_icons=true&locale=en" alt="shukabum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukabum&" alt="shukabum" /></p>

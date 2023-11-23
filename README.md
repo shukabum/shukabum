@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shukabum](https://github.com/shukabum)
 
-- 💬 Ask me about **React, Gsap, Blender, Web development, C++ ,CP**
+- 💬 Ask me about **Javascript, React JS,NEXT JS, Gsap, Blender, Web development, C++ ,CP**
 
 - 📫 How to reach me **s_sharma2@me.iitr.ac.in**
 

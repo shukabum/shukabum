@@ -29,9 +29,11 @@
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukabum&" alt="shukabum" /></p>
 
-![](https://github.com/shukabum/shukabum/blob/output/github-contribution-grid-snake.svg)
-<!-- ## 🏆 GitHub Trophies -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=shukabum&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+
+![](https://raw.githubusercontent.com/shukabum/shukabum/output/github-contribution-grid-snake.svg)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shukabum&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

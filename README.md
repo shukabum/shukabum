@@ -30,7 +30,7 @@
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukabum&" alt="shukabum" /></p>
 
 
-![](https://raw.githubusercontent.com/shukabum/shukabum/output/github-contribution-grid-snake.svg)
+![](https://github.com/shukabum/shukabum/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shukabum&theme=radical&no-frame=false&no-bg=true&margin-w=4) 

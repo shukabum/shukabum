@@ -28,7 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shukabum&show_icons=true&locale=en" alt="shukabum" /></p>
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shukabum&" alt="shukabum" /></p>
-![Snake animation](https://github.com/shukabum/shukabum/blob/output/github-contribution-grid-snake.svg)
+
+![](https://github.com/shukabum/shukabum/blob/output/github-contribution-grid-snake.svg)
 <!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=shukabum&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 

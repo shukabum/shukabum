@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shukabum](https://github.com/shukabum)
 
-- 💬 Ask me about **RUST, Javascript, React JS, NEXT JS, Gsap, Blender, Web development, C++, CP**
+- 💬 Ask me about **RUST, Java, Javascript, React JS, NEXT JS, Gsap, Blender, Web development, C++, CP**
 
 - 📫 How to reach me **s_sharma2@me.iitr.ac.in**
 

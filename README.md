@@ -4,11 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukabum&label=Profile%20views&color=0e75b6&style=flat" alt="shukabum" /> </p>
 
-- 🌱 I’m currently learning **Sports Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shukabum](https://github.com/shukabum)
 
-- 💬 Ask me about **RUST,Web development,Data Science, Software Engineering, Java, Javascript, React JS, NEXT JS, Gsap, Blender, C++, CP**
+- 💬 Ask me about **Competitve Programming, Web development, Data Science, Software Engineering, Javascript, Gsap, Blender, C++, RUST **
 
 - 📫 How to reach me **s_sharma2@me.iitr.ac.in**
 

@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shukabum](https://github.com/shukabum)
 
-- 💬 Ask me about **Competitve Programming, Web development, Data Science, Software Engineering, Javascript, Gsap, Blender, C++, RUST **
+- 💬 Ask me about **Competitve Programming, Web development, Data Science, Software Engineering, Javascript, Gsap, Blender, C++, RUST**
 
 - 📫 How to reach me **s_sharma2@me.iitr.ac.in**
 

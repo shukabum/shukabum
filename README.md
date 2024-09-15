@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Competitve Programming, Web development, Data Science, Software Engineering, Javascript, Gsap, Blender, C++, RUST**
 
-- 📫 How to reach me **s_sharma2@me.iitr.ac.in**
+- 📫 Drop a message on :**s_sharma2@me.iitr.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

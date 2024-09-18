@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukabum&label=Profile%20views&color=0e75b6&style=flat" alt="shukabum" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/shukabum](https://github.com/shukabum)
+- 👨‍💻 All of my projects are available at [https://github.com/shukabum](https://shukabum.vercel.app/)
 
 - 💬 Ask me about **Competitve Programming, Web development, Data Science, Software Engineering, Javascript, Gsap, Blender, C++, RUST**
 
